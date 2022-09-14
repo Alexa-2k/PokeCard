@@ -1,0 +1,99 @@
+/* * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    display: inline-block;
+} */
+.card {
+    position: absolute;
+    height: 78%;
+    width: 25%;
+    background-color: #2D2D2D;
+    border-color: lightgrey;
+    border-style: outset;
+}
+
+
+.cuadro {
+    margin: 10% 5% 4% 5%;
+    background-color: darkred;
+    width: 89%;
+    position: absolute;
+    height: 88%;
+    border-radius: 12px; 
+    font-family: OpenSans, sans-serif; 
+    border-color: lightgoldenrodyellow;
+    border-style: outset;
+}
+
+.div-imagen {
+    background-color: #add8e6;
+    background-image: url("../images/forest.png");
+    background-repeat: no-repeat;
+    background-width: 80%;
+    background-position: bottom;
+    width: 80%;
+    position: relative;
+    margin: 12% 9% 3% ;
+    border-style: solid; 
+    border-color: lightgrey;
+    border-width: 3px;
+    border-radius: 12px;
+}
+
+#squirtle {
+    width: 65%;
+    margin: 12% 15%;
+}
+
+.txt {
+    position:  absolute;
+    background-color: transparent;
+    width: 80;
+    color:  white;
+}
+
+.nombre {
+    position: absolute;
+    top:2.5%;
+    margin-left: 33%;
+    background-color: white;
+    color:  darkgray;
+    height: 35px;
+    width: 28%;
+    border-radius: 12px;
+    padding: 1% 2%;
+    text-align: center;   
+    font-family: Open Sans, sans-serif;
+    font-size: 1em;
+    border-style: inset;
+    border-color: lightgoldenrodyellow;
+} 
+
+
+
+
+ h1{
+    margin: 0 auto;
+ }
+
+ .txt {
+    margin-left: 12%;
+    margin-bottom: 0;
+    padding: 0;
+ }
+
+p {
+    font-size: 1.1em;
+    text-align: center; 
+}
+
+h2 {
+    margin-top: 10%;
+}
+
+/* div {
+    display: inline-block;
+    position: relative;
+   
+}    */
